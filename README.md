@@ -1,7 +1,8 @@
-# ToDoList-React
+# React + Vite
 
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-![Screenshot Capture - 2023-11-15 - 15-01-26](https://github.com/krutarth-dev/ToDoList-React-vite/assets/52596504/f4906668-0e22-4908-acaf-87cbfcc500e0)
+Currently, two official plugins are available:
 
-
-![Screenshot Capture - 2023-11-15 - 15-06-04](https://github.com/krutarth-dev/ToDoList-React-vite/assets/52596504/e07c34c2-30a4-4f57-935f-830250a766fb)
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
